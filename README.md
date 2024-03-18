@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/himadri-09/himadri-09/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
